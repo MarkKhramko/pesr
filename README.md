@@ -1,3 +1,3 @@
 # PESR
 
-Progressive Enhancment Server-side-rendered React
+Progressive Enhancement Server-side-rendered React
